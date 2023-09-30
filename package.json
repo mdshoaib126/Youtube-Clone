@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "author": "Md Shoaib",  
-  "description": "Youtube Clone in react for learing perpuse.",
+  "description": "Youtube Clone in react for learing purpose.",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
